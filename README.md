@@ -11,9 +11,14 @@ The project aims to provide an interactive experience, allowing users to visuall
 ## How to run the program
 
 <br>
-- start the Simulation: Press Enter key to initiate the simulation. Observe as the cells transition through generations, adhering to the Game of Life's rules.
-- Pause/Stop the Simulation: Hit the Spacebar to pause the simulation at any moment.
+<li> start the Simulation: Press Enter key to initiate the simulation. Observe as the cells transition through generations, adhering to the Game of Life's rules.</li>
+<br>
+<li> Pause/Stop the Simulation: Hit the Spacebar to pause the simulation at any moment.</li>
 
 
 
 <br><br>
+
+
+https://github.com/user-attachments/assets/dc5eacf5-d462-4b5f-8c5f-d14b79fe536a
+
