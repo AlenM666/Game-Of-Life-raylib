@@ -8,7 +8,7 @@ int main()
     // decrese the cell size to make game bigger
     const int WINDOW_WIDTH = 750;
     const int WINDOW_HEIGHT = 750;
-    int CELL_SIZE = 25;
+    int CELL_SIZE = 10;
     int FPS = 12;
 
 
